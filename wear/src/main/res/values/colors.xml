@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#0D2818</color>
+    <color name="bg_black">#000000</color>
+    <color name="k2_green_dark">#0D2818</color>
+    <color name="k2_green_btn">#1E6B32</color>
+    <color name="gold">#C9A84C</color>
+    <color name="lime_acc">#8FD694</color>
+    <color name="dist_white">#FFFFFF</color>
+    <color name="text_primary">#E8F5EA</color>
+    <color name="text_bright">#CCCCCC</color>
+    <color name="text_muted">#7A9E82</color>
+    <color name="green_acc">#2D8A3E</color>
+    <color name="status_searching">#E0C070</color>
+    <color name="status_success">#8FD694</color>
+    <color name="status_error">#E05555</color>
+    <color name="status_warn">#E09030</color>
+</resources>

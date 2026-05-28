@@ -1,0 +1,11 @@
+{
+  "courseId": "k2_daegu",
+  "courseName": "K2 대구",
+  "holes": [
+    {
+      "hole": 1,
+      "lat": 35.902494,
+      "lng": 128.663617
+    }
+  ]
+}

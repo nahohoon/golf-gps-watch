@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">K2 Golf GPS</string>
+    <string name="brand_title">K2 GOLF</string>
+    <string name="hole_default">HOLE 1</string>
+    <string name="hole_format">HOLE %1$d</string>
+    <string name="distance_num_placeholder">--</string>
+    <string name="distance_unit">m</string>
+    <string name="prev_hole">◀ 이전</string>
+    <string name="next_hole">다음 ▶</string>
+    <string name="refresh">↻</string>
+    <string name="gps_waiting">GPS 대기 중</string>
+    <string name="gps_searching">GPS 조회 중…</string>
+    <string name="gps_refreshing">GPS 다시 조회 중…</string>
+    <string name="gps_ready">GPS 수신됨</string>
+    <string name="gps_denied">위치 권한 거부됨</string>
+    <string name="gps_error">GPS 오류</string>
+    <string name="status_line_ok">%1$s | ±%2$.0fm</string>
+    <string name="status_line_warn">%1$s | ⚠ %2$.0fm</string>
+    <string name="last_updated_format">갱신 %1$s</string>
+    <string name="last_updated_none">-</string>
+</resources>

@@ -1,0 +1,34 @@
+# --- Android / Kotlin ---
+.gradle/
+build/
+**/build/
+local.properties
+*.iml
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# --- Release signing (민감 정보, 절대 커밋 금지) ---
+keystore.properties
+*.jks
+*.keystore
+
+# --- 로컬 SDK / 도구 ---
+.android-sdk/
+cmdline-tools/
+cmdline-tools.zip
+
+# --- 빌드 산출물 / 로그 ---
+release-output/
+wear/release/
+build-log.txt
+build-exit.txt
+zip-list.txt
+sdk-status.txt
+
+# --- 기타 ---
+*.apk
+*.aab
+!docs/store-assets/icon-512.png
